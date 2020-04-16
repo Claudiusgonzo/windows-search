@@ -1,6 +1,8 @@
 # Issues-Only Repository
 
-This repository is currently an issues-only repository for the [Windows Search Platform](https://aka.ms/winsearch).
+This repository is an issues-only repository for the [Windows Search Platform](https://aka.ms/winsearch).
+
+This repository is currently under construction and issues have currently been disabled while we set up templates and processes.
 
 # Contributing
 
